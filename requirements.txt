@@ -1,0 +1,9 @@
+python=3.9
+ipykernel
+numpy
+astropy
+pandas
+seaborn
+pyarrow
+fast3tree
+https://github.com/sagasurvey/saga/archive/master.zip
