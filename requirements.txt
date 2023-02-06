@@ -6,4 +6,5 @@ pandas
 seaborn
 pyarrow
 fast3tree
+python-dotenv
 https://github.com/sagasurvey/saga/archive/master.zip

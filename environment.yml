@@ -1,13 +1,16 @@
 name: satellite-ellipticities
+channels:
+  - conda-forge
 dependencies:
-- python=3.9
-- ipykernel
-- numpy
-- astropy
-- pandas
-- seaborn
-- pyarrow
-- pip
-- pip:
-  - git+https://github.com/sagasurvey/saga.git
-  - git+https://github.com/yymao/fast3tree.git
+  - python=3.9
+  - ipykernel
+  - numpy
+  - astropy
+  - dotenv
+  - pandas
+  - seaborn
+  - pyarrow
+  - fast3tree
+  - pip
+  - pip:
+    - git+https://github.com/sagasurvey/saga.git
